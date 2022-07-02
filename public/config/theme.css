@@ -1,0 +1,37 @@
+
+:root {
+  /* Body */
+  --primary: #ffff;
+  --secondary:#3be8ff96;
+  --bg-angle:147deg;
+  --primary-text: #979797;
+  --owner:#f6f0f0;
+  --logo:300px;
+  
+  /* Image preview */
+  --img-size:280px;
+  --img-radius:80%;
+  --img-animation-primary:#efefef;
+  --img-animation-secondary:#ebebeb;
+  --animation:;
+  --animation-showhide:1;
+  --animation-shadow:1;
+
+  /*Main container*/
+  --main-rarius:120px;
+  --main-bg-primary:#3880fdd5;
+  --main-bg-secondary:#3bd1ff;
+  --main-angle:45deg;
+  --main-text: #ffffff;
+  --alert-text:#f00000;
+  --wallet-text: #0b0202;
+
+  /*Buttons*/
+  --btn-radius:30px;
+  --btn-color:#ffffff;
+  --btn-text:#fd7a38;
+  --btn-text-hover:#0f0101;
+  
+  /*Buttons*/
+  --btn-sec-text:#fd3838;
+}

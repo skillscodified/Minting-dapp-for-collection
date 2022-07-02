@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x867be9574c06312f451315746f3347699f0d24f9",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x867be9574c06312f451315746f3347699f0d24f9",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "OWNER":"SKILLER",
+  "YEAR":"2022",
+  "NFT_NAME": "SKILLER",
+  "SYMBOL": "SKL",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/skiller"
+}
